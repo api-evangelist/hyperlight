@@ -64,5 +64,10 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HyperLight is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://forgeglobal.com/hyperlight_stock/
+HyperLight Corporation is a Cambridge, Massachusetts photonics company founded by Mian Zhang out of Harvard University that designs and manufactures thin-film lithium niobate (TFLN) photonic integrated circuits on its patented TFLN Chiplet platform — IMDD transmitter PICs up to 448 Gbps per lane, dual-polarization IQ transmitter PICs for 130/200/260 Gbaud coherent links, and packaged electro-optic modulators up to 145 GHz — for AI and hyperscale data center interconnect, DCI and telecom transport, and test and measurement. It is a semiconductor hardware business and publishes no API, SDK, developer portal or machine-readable specification; every contract-discovery probe run on 2026-08-22 returned 404.
+
+- https://hyperlightcorp.com/
+- https://hyperlightcorp.com/company
+- https://hyperlightcorp.com/applications
+- https://hyperlightcorp.com/contact
+- Secondary-market listing (harvest source): https://forgeglobal.com/hyperlight_stock/

@@ -1,0 +1,55 @@
+generated: '2026-08-22'
+method: probed
+source: live probes of https://hyperlightcorp.com and https://www.hyperlightcorp.com
+note: >-
+  Every /.well-known/ path returns a real HTTP 404 (an identical 6,603-byte site 404 page,
+  not a soft-200 catch-all), so nothing was saved and NO WellKnown or SecurityTxt pointer is
+  emitted in apis.yml. This file records a verified absence, not a served surface.
+hit_count: 0
+hosts:
+- host: https://hyperlightcorp.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
+- host: https://www.hyperlightcorp.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
