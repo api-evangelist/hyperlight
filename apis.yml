@@ -16,6 +16,17 @@ description: 'HyperLight Corporation is a Cambridge, Massachusetts photonics com
   site covers company, applications, custom development, three product lines, patents, careers
   and a sales contact, and it publishes no developer program, API, SDK, webhook surface or
   machine-readable specification of any kind.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://hyperlightcorp.com/img/logo.webp
 url: https://raw.githubusercontent.com/api-evangelist/hyperlight/refs/heads/main/apis.yml
 x-type: company
