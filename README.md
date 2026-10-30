@@ -64,10 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HyperLight Corporation is a Cambridge, Massachusetts photonics company founded by Mian Zhang out of Harvard University that designs and manufactures thin-film lithium niobate (TFLN) photonic integrated circuits on its patented TFLN Chiplet platform — IMDD transmitter PICs up to 448 Gbps per lane, dual-polarization IQ transmitter PICs for 130/200/260 Gbaud coherent links, and packaged electro-optic modulators up to 145 GHz — for AI and hyperscale data center interconnect, DCI and telecom transport, and test and measurement. It is a semiconductor hardware business and publishes no API, SDK, developer portal or machine-readable specification; every contract-discovery probe run on 2026-08-22 returned 404.
+HyperLight Corporation is a Cambridge, Massachusetts photonics company founded by Mian Zhang out of Harvard University that designs and manufactures thin-film lithium niobate (TFLN) photonic integrated circuits. Its patented TFLN Chiplet platform pairs the electro-optic properties of thin-film lithium niobate with CMOS-like, high-volume wafer fabrication to produce IMDD transmitter PICs at up to 448 Gbps per lane, dual-polarization IQ transmitter PICs for 130/200/260 Gbaud coherent links, and packaged standalone modulators with up to 145 GHz bandwidth, aimed at AI and hyperscale data center interconnect, DCI and telecom transport, test and measurement, and emerging quantum and sensing applications. The company manufactures through tier-1 foundry and OSAT partners including UMC and its compound semiconductor subsidiary Wavetek on 6-inch and 8-inch wafers, is ISO 9001:2015 certified as of September 2025, and raised an $80M Series C led by MediaTek with participation from UMC Capital, Jabil, Foxconn, EDBI, CDIB-TEN Capital and the Qatar Investment Authority, following a $37M Series B in September 2024. HyperLight is a semiconductor hardware business: its public site covers company, applications, custom development, three product lines, patents, careers and a sales contact, and it publishes no developer program, API, SDK, webhook surface or machine-readable specification of any kind.
 
-- https://hyperlightcorp.com/
-- https://hyperlightcorp.com/company
-- https://hyperlightcorp.com/applications
-- https://hyperlightcorp.com/contact
-- Secondary-market listing (harvest source): https://forgeglobal.com/hyperlight_stock/
+**Areas:** Company · Photonics · Integrated Photonics · Semiconductors · Optical Networking · Data Center · Telecommunications · Hardware · AI Infrastructure
+
+## HyperLight on APIs.io
+
+Everything profiled for HyperLight is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hyperlight/](https://apis.io/providers/hyperlight/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hyperlight Domain Security](https://apis.io/security/hyperlight/hyperlight-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hyperlightcorp.com/)
+
+## API Evangelist rating
+
+**Kin Score 2.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.0** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hyperlight/](https://apis.io/providers/hyperlight/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HyperLight: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hyperlight/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
